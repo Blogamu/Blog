@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /thanks/
-Disallow: /test/
-Disallow: /sg/
