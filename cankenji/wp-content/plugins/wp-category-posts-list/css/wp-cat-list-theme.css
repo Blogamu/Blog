@@ -1,0 +1,43 @@
+/** Basic theme structure */
+/** The main widget */
+.wp-cpl-widget, .wp-cpl-widget * {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.wp-cpl-widget {
+    list-style: none !important;
+    background: none !important;
+}
+/** The li */
+.wp-cpl-widget li {
+    background: none !important;
+    float: none !important;
+    padding: 3px 5px !important;
+    margin: 2px 0 !important;
+    overflow: hidden !important;
+}
+/** The thumb */
+.wp-cpl-widget li span.wp-thumb-overlay {
+    float: left !important;
+    padding: 3px !important;
+    line-height: 0 !important;
+    margin: 0 5px 0 0 !important;
+}
+/** The teaser */
+.wp-cpl-teaser {
+    padding: 5px 0 0 0 !important;
+    font-style: italic !important;
+    margin: 0 0 5px 0 !important;
+}
+/** The read more */
+.wp-cpl-read-more {
+    text-align: right !important;
+    padding: 5px 0 0 0 !important;
+    font-style: italic !important;
+    margin: 0 0 5px 0 !important;
+}
+/** The comment */
+.wp-cpl-comment {
+    display: block !important;
+    font-size: 80% !important;
+}

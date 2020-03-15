@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta HTTP-EQUIV="REFRESH" content="0; url=http://www.cankenji.com">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Can Kenji</title>
+</head>
+
+<body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Can Kenji &#187; Horaris situacio reserves_en</title>
+	<atom:link href="http://cankenji.com/cankenji/?feed=rss2&#038;cat=90" rel="self" type="application/rss+xml" />
+	<link>https://cankenji.com/cankenji</link>
+	<description>Tapes Japoneses a Barcelona</description>
+	<lastBuildDate>Mon, 06 Nov 2017 17:47:43 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.2</generator>
+		<item>
+		<title>Location, timing, reservations</title>
+		<link>https://cankenji.com/cankenji/?p=738</link>
+		<comments>https://cankenji.com/cankenji/?p=738#comments</comments>
+		<pubDate>Mon, 30 Sep 2013 11:13:56 +0000</pubDate>
+		<dc:creator>Prince-master</dc:creator>
+				<category><![CDATA[Horaris situacio reserves_en]]></category>
+
+		<guid isPermaLink="false">http://cankenji.com/cankenji/?p=738</guid>
+		<description><![CDATA[Location Can kenji is in carrer Rosselló 325, between carrer Bailén and Passeig de Sant Joan at the neighborhood of the Eixample, Barcelona. The telephone number to make a reservation or if you have any question is the +34 93 &#8230;]]></description>
+			<content:encoded><![CDATA[<h2>Location</h2>
+<p>Can kenji is in carrer Rosselló 325, between carrer Bailén and Passeig de Sant Joan at the neighborhood of the Eixample, Barcelona. The telephone number to make a reservation or if you have any question is the +34 93 476 18 23</p>
+<h2>Timing</h2>
+<p>We are open every week day dinner time starts at 13:00 noon until 15:30, at night we are open from 20:30 until 23:00. We open on festivity days as well, check the homepage on this website for news and updates about opening times.</p>
+<h2>Reservations</h2>
+<p>Can Kenji has 10 tables for approximately 30 people and also a small counter for 7 people more which is excluded from reservations. We strongly recommend you to call in advance to the phone number above to book your table.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://cankenji.com/cankenji/?feed=rss2&#038;p=738</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta HTTP-EQUIV="REFRESH" content="0; url=http://www.cankenji.com">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Can Kenji</title>
+</head>
+
+<body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Can Kenji &#187; menjar i begudes 2_en</title>
+	<atom:link href="http://cankenji.com/cankenji/?feed=rss2&#038;cat=99" rel="self" type="application/rss+xml" />
+	<link>https://cankenji.com/cankenji</link>
+	<description>Tapes Japoneses a Barcelona</description>
+	<lastBuildDate>Mon, 06 Nov 2017 17:47:43 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.2</generator>
+		<item>
+		<title>Desserts</title>
+		<link>https://cankenji.com/cankenji/?p=861</link>
+		<comments>https://cankenji.com/cankenji/?p=861#comments</comments>
+		<pubDate>Thu, 19 Oct 2017 10:42:12 +0000</pubDate>
+		<dc:creator>Prince-master</dc:creator>
+				<category><![CDATA[menjar i begudes 2_en]]></category>
+
+		<guid isPermaLink="false">http://cankenji.com/cankenji/?p=861</guid>
+		<description><![CDATA[Some of our recipes are made according the guides of the japanese Shun concept. We adjust and renew the desserts recipes based on the products available in the different seasons of the year. Below are some of our classic desserts, &#8230;]]></description>
+			<content:encoded><![CDATA[<h5>Some of our recipes are made according the guides of the japanese Shun concept. We adjust and renew the desserts recipes based on the products available in the different seasons of the year. Below are some of our classic desserts, and in our menu you will find the seasonal special dessert as well.</h5>
+<p>Green tea ice cream<br />
+<span>抹茶アイスクリーム</span></p>
+<p>Chocolate japanese Dorayaki pancake<br />
+<span>どらやき (チョコレート)</span></p>
+<p>Azuki japanese Dorayaki pancake<br />
+<span>どらやき (小豆)</span></p>
+<p>White truffle with perilla liquor<br />
+<span>しそリキュール入りホワイトチョコレートのトリュフ</span></p>
+<p>Green tea and Baileys tiramisú<br />
+<span>抹茶とベイリーズのティラミス</span></p>
+<hr class="linia-fosca">
+<h3>Wine and Drinks</h3>
+<h5>The cellar at Can Kenji puts together a collection of original and daring wines with lots of personality, some of them are made in limited numbers for local consumption and produced at the cellars of familiar properties.<br />
+You can also try the sake or the sochu and the japanese cocktails.</h5>
+<h3>The daily menu</h3>
+<h5>The daily menu is on from monday to friday at dinner time . Choose between a fish or meat main course, along with a bowl of plain rice and a miso soup. To try the tasting menu, choose within 3 or 4 of the dishes listed and combine it with a delicious portion of sushi.</h5>
+<h3>Bento &#038; catering</h3>
+<h5>You can take to your place any of our meals and drinks in our menu, just phone us make your order and come to pick it up. We also make obentos (弁 当 o べんとう) japanese home cooking served in a bentōbako (弁 当 箱), a tray with small slots where the food is distributed, perfect for sharing.<br />
+<br />For information on our catering services call the +34 93 476 18 23 or send an email to izakayabcn@hotmail.com</h5>
+]]></content:encoded>
+			<wfw:commentRss>https://cankenji.com/cankenji/?feed=rss2&#038;p=861</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+</body>
+</html>
